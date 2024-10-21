@@ -9,17 +9,17 @@ pkg install python python3
 
 git clone https://github.com/4l1ptukam/Sp4m-Suk1
 
-cd SpamWaV2
+cd Sp4m-Suk1
 
 python3 main.py
 
 # About 
-This script tools is made by me Himalaglebruhv
+This script tools is made by me 
 
 Visit me on these platform 👇🏻
 
 Youtube : 
 
-WhatsApp : https://wa.me/+6283181616755
+WhatsApp : 
 
 Github : https://github.com/4l1ptukam
