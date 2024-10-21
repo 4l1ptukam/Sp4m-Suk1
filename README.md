@@ -7,7 +7,7 @@ pkg update && pkg upgrade
 
 pkg install python python3
 
-git clone https://github.com/Himalagle-exc27/SpamWaV2
+git clone https://github.com/4l1ptukam/Sp4m-Suk1
 
 cd SpamWaV2
 
